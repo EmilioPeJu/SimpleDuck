@@ -1,0 +1,3 @@
+DEFAULT_DELAY 50
+STRING echo SimpleDuck did it
+ENTER
