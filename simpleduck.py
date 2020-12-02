@@ -120,7 +120,7 @@ def parse_args():
             parser.error('Invalid file path')
         return arg
 
-    parser.add_argument('--ip')
+    parser.add_argument('--ip', required=True)
     parser.add_argument('--port', default=3333)
     parser.add_argument('-r', dest='run', action='store_true',
                         help="Run the last script loaded")
