@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 #
 #   This code is in the Public Domain (or CC0 licensed, at your option.)
 #
